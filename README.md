@@ -84,6 +84,8 @@ Testing Environment: Two browser windows (as shown in screenshot) to simulate tw
 
 Collaborative writing platforms (Google Docs alternatives).
 
+OUTPUT: <img width="1317" height="369" alt="Image" src="https://github.com/user-attachments/assets/0d9e8f91-4ec1-474f-815b-d20f1a838502" />
+
 Team project tools (Notion, Confluence).
 
 Customer support chat + documentation editors.
